@@ -6,5 +6,7 @@ cake
 dinner
 rice
 daal
+chicken
+fish
 
 thank you
